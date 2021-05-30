@@ -1,0 +1,13 @@
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.UI.Muısteri\bin\Debug\PromosyonTakip.UI.Muısteri.exe.config
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.UI.Muısteri\bin\Debug\PromosyonTakip.UI.Muısteri.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.UI.Muısteri\bin\Debug\PromosyonTakip.UI.Muısteri.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.UI.Muısteri\bin\Debug\PromosyonTakip.Core.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.UI.Muısteri\bin\Debug\PromosyonTakip.Core.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.UI.Muısteri\obj\Debug\PromosyonTakip.UI.Muısteri.csprojResolveAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.UI.Muısteri\obj\Debug\PromosyonTakip.UI.Muısteri.anaEkran.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.UI.Muısteri\obj\Debug\PromosyonTakip.UI.Muısteri.Form1.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.UI.Muısteri\obj\Debug\PromosyonTakip.UI.Muısteri.Properties.Resources.resources
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.UI.Muısteri\obj\Debug\PromosyonTakip.UI.Muısteri.csproj.GenerateResource.Cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.UI.Muısteri\obj\Debug\PromosyonTakip.UI.Muısteri.csproj.CoreCompileInputs.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.UI.Muısteri\obj\Debug\PromosyonTakip.UI.Muısteri.exe
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.UI.Muısteri\obj\Debug\PromosyonTakip.UI.Muısteri.pdb

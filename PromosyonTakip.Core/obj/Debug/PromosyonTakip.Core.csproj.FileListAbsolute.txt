@@ -1,0 +1,6 @@
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.Core\bin\Debug\PromosyonTakip.Core.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.Core\bin\Debug\PromosyonTakip.Core.pdb
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.Core\obj\Debug\PromosyonTakip.Core.csprojResolveAssemblyReference.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.Core\obj\Debug\PromosyonTakip.Core.csproj.CoreCompileInputs.cache
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.Core\obj\Debug\PromosyonTakip.Core.dll
+C:\Users\Orkun YALINKILIÇ\Desktop\C# DERSLERİ\114-) Potansiyel Müşteri Kayıt - Çekiliş Uygulaması\PromosyonTakip\PromosyonTakip.Core\obj\Debug\PromosyonTakip.Core.pdb
